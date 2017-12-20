@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<configuration date="2017/12/18" author="e.World Technology Ltd.">
+  <project id="{9435B223-C5A2-406D-9811-AE3FF94021AF}" file="D:\xampp3\htdocs\stok2\prj_stok2.pmp" name="prj_stok2" product="PHPMaker" version="13.0" datetime="2017/12/18 08:57:58" languagefolder="phplang" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0">
+    <table id="as_bbm" name="as_bbm" caption="as bbm" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="as_brands" name="as_brands" caption="as brands" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="as_buy_payments" name="as_buy_payments" caption="as buy payments" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="as_buy_transactions" name="as_buy_transactions" caption="as buy transactions" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="as_categories" name="as_categories" caption="as categories" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="as_customers" name="as_customers" caption="as customers" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="as_debts" name="as_debts" caption="as debts" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="as_delivery_order" name="as_delivery_order" caption="as delivery order" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="as_detail_bbm" name="as_detail_bbm" caption="as detail bbm" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="as_detail_do" name="as_detail_do" caption="as detail do" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="as_detail_retur_staffs" name="as_detail_retur_staffs" caption="as detail retur staffs" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="as_detail_retur_suppliers" name="as_detail_retur_suppliers" caption="as detail retur suppliers" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="as_detail_so" name="as_detail_so" caption="as detail so" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="as_detail_spb" name="as_detail_spb" caption="as detail spb" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="as_detail_transfers" name="as_detail_transfers" caption="as detail transfers" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="as_factories" name="as_factories" caption="as factories" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="as_modules" name="as_modules" caption="as modules" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="as_products" name="as_products" caption="as products" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="as_receivables" name="as_receivables" caption="as receivables" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="as_retur_staffs" name="as_retur_staffs" caption="as retur staffs" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="as_retur_suppliers" name="as_retur_suppliers" caption="as retur suppliers" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="as_sales_order" name="as_sales_order" caption="as sales order" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="as_sales_payments" name="as_sales_payments" caption="as sales payments" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="as_sales_transactions" name="as_sales_transactions" caption="as sales transactions" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="as_spb" name="as_spb" caption="as spb" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="as_staffs" name="as_staffs" caption="as staffs" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="as_stock_opname" name="as_stock_opname" caption="as stock opname" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="as_stock_products" name="as_stock_products" caption="as stock products" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="as_suppliers" name="as_suppliers" caption="as suppliers" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="as_temp_detail_so" name="as_temp_detail_so" caption="as temp detail so" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="as_temp_detail_spb" name="as_temp_detail_spb" caption="as temp detail spb" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="as_temp_detail_transfers" name="as_temp_detail_transfers" caption="as temp detail transfers" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="as_transfers" name="as_transfers" caption="as transfers" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="t_96_user" name="t_96_user" caption="t 96 user" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="t_97_level" name="t_97_level" caption="t 97 level" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="t_98_permission" name="t_98_permission" caption="t 98 permission" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="t_99_audittrail" name="t_99_audittrail" caption="t 99 audittrail" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="cf_01_home_php" name="cf_01_home.php" caption="Home" userlevel="-2,&quot;Anonymous&quot;,8;0,&quot;Default&quot;,0" priv="1" />
+  </project>
+</configuration>
